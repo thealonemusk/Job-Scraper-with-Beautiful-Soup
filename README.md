@@ -2,10 +2,10 @@
 This is a web scraper built using the Beautiful Soup library in Python. The scraper extracts job listings and their details from a specific website. It provides an easy way to collect job information for analysis, monitoring, or any other purposes.
 
 <h2>Features</h2>
-<ls>
-Scrapes the latest published job advertisements from a specific website
+
+<li>Scrapes the latest published job advertisements from a specific website
 Extracts job title, company name, required skills, experience required, more info URL, and published date for each job listing
-Provides the option to export the scraped data to a text file or an Excel sheet</ls>
+Provides the option to export the scraped data to a text file or an Excel sheet</li>
 <h2>Prerequisites</h2>
 Python 3.x
 Beautiful Soup library (install using pip install beautifulsoup4)
